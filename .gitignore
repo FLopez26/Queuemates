@@ -1,0 +1,10 @@
+venv/
+.env
+serviceAccountKey.json
+queuemates-2cad6-firebase-adminsdk-fbsvc-4c46cdac27.json
+.spotify_token_cache
+__pycache__/
+*.pyc
+*.pyo
+.flet/
+build/
